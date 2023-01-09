@@ -1,0 +1,26 @@
+
+6python:S125"Remove this commented out code.(Ø¸¾ò
+xpython:S117g"aRename this local variable "collectionReport" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰úá»
+ypython:S117z"]Rename this local variable "hisTableName" to match the regular expression ^[_a-z][a-z0-9_]*$.(ô‡íæúÿÿÿÿ
+spython:S117w"WRename this local variable "newKey" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆé‰ÿÿÿÿÿ
+spython:S117v"WRename this local variable "oldKey" to match the regular expression ^[_a-z][a-z0-9_]*$.(õİ®âúÿÿÿÿ
+mpython:S117e"QRename this parameter "orgId" to match the regular expression ^[_a-z][a-z0-9_]*$.(ù¼Öıÿÿÿÿ
+ppython:S117e"TRename this parameter "periodId" to match the regular expression ^[_a-z][a-z0-9_]*$.(ù¼Öıÿÿÿÿ
+rpython:S117e"VRename this parameter "periodYear" to match the regular expression ^[_a-z][a-z0-9_]*$.(ù¼Öıÿÿÿÿ
+ppython:S117e"TRename this parameter "recordId" to match the regular expression ^[_a-z][a-z0-9_]*$.(ù¼Öıÿÿÿÿ
+zpython:S1542e"]Rename function "queryDocByPeriodAndOrg6" to match the regular expression ^[a-z_][a-z0-9_]*$.(ù¼Öıÿÿÿÿ
+?python:S1481f"'Remove the unused local variable "res".(¶Ô”§
+Gpython:S1481v"*Remove the unused local variable "oldKey".(õİ®âúÿÿÿÿ
+tpython:S117"WRename this local variable "newKey" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆé‰ÿÿÿÿÿ
+tpython:S117Œ"WRename this local variable "oldKey" to match the regular expression ^[_a-z][a-z0-9_]*$.(õİ®âúÿÿÿÿ
+kpython:S117Š"SRename this parameter "rowData" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬ íÀ
+npython:S1542Š"URename function "tupSetVarAndVal" to match the regular expression ^[a-z_][a-z0-9_]*$.(¬ íÀ
+{python:S117 "^Rename this local variable "catalogItemId" to match the regular expression ^[_a-z][a-z0-9_]*$.(†ó£‹ÿÿÿÿÿ
+vpython:S117™"YRename this local variable "periodId" to match the regular expression ^[_a-z][a-z0-9_]*$.(ßåãşÿÿÿÿ
+spython:S117š"[Rename this local variable "reportCode" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆ”Ö«
+upython:S117"XRename this local variable "rowData" to match the regular expression ^[_a-z][a-z0-9_]*$.(õ½Ùüøÿÿÿÿ
+tpython:S1542•"VRename function "sum6thTableByDoc" to match the regular expression ^[a-z_][a-z0-9_]*$.(å®…šüÿÿÿÿ
+Jpython:S1481™",Remove the unused local variable "periodId".(ßåãşÿÿÿÿ
+Fpython:S1481—"-Remove the unused local variable "record_id".(¡›òµ
+Gpython:S1481š".Remove the unused local variable "reportCode".(ˆ”Ö«
+Gpython:S1481›".Remove the unused local variable "table_name".(ªÍÒ

@@ -1,0 +1,45 @@
+
+@python:S5780j"(Change or remove duplicates of this key.(ªΕΔ
+@python:S5780k"(Change or remove duplicates of this key.(ΡΘ…Ξ
+kpython:S1542~"NRename function "keysList" to match the regular expression ^[a-z_][a-z0-9_]*$.(‰²μΦύÿÿÿÿ
+wpython:S117…"ZRename this local variable "keysExist" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ηƒψÿÿÿÿ
+{python:S117“"^Rename this local variable "keysExistEach" to match the regular expression ^[_a-z][a-z0-9_]*$.(°¨ªϊÿÿÿÿ
+zpython:S117†"]Rename this local variable "keysNotExist" to match the regular expression ^[_a-z][a-z0-9_]*$.(ΎΏϋλύÿÿÿÿ
+~python:S117"aRename this local variable "keysNotExistEach" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ρ™†ΰωÿÿÿÿ
+xpython:S117"[Rename this local variable "paramExist" to match the regular expression ^[_a-z][a-z0-9_]*$.(›ΠΤΎύÿÿÿÿ
+vpython:S117‡"^Rename this local variable "paramNotExist" to match the regular expression ^[_a-z][a-z0-9_]*$.(ε½Έ
+upython:S117”"]Rename this local variable "valExistEach" to match the regular expression ^[_a-z][a-z0-9_]*$.(εΥ†γ
+xpython:S117‹"`Rename this local variable "valNotExistEach" to match the regular expression ^[_a-z][a-z0-9_]*$.(μΥÒΘ
+|python:S1542„"^Rename function "keyNotExistValueSetParam" to match the regular expression ^[a-z_][a-z0-9_]*$.(®Μϊÿÿÿÿ
+Jpython:S1481‡"1Remove the unused local variable "paramNotExist".(ε½Έ
+Lpython:S1481".Remove the unused local variable "paramExist".(›ΠΤΎύÿÿÿÿ
+kpython:S1542"RRename function "recordOp5Doc" to match the regular expression ^[a-z_][a-z0-9_]*$.(ν±”
+kpython:S107"SFunction "recordOp5Doc" has 25 parameters, which is greater than the 13 authorized.(ν±”
+Rpython:S1135―"4Complete the task associated to this "TODO" comment.(βΩΪ·όÿÿÿÿ
+Lpython:S1172΄"3Remove the unused function parameter "report_date".(½Χρ
+Mpython:S1172΄"4Remove the unused function parameter "updated_time".(½Χρ
+Epython:S1172΄",Remove the unused function parameter "type".(½Χρ
+Hpython:S1172΄"/Remove the unused function parameter "form_id".(½Χρ
+Jpython:S1172΄"1Remove the unused function parameter "sta_month".(½Χρ
+Kpython:S1172΄"2Remove the unused function parameter "sta_season".(½Χρ
+Npython:S1172΄"5Remove the unused function parameter "warnning_code".(½Χρ
+Fpython:S1172΄"-Remove the unused function parameter "state".(½Χρ
+Gpython:S1172΄".Remove the unused function parameter "is_del".(½Χρ
+Jpython:S1172΄"1Remove the unused function parameter "form_name".(½Χρ
+Qpython:S1172΄"8Remove the unused function parameter "org_principal_id".(½Χρ
+Qpython:S1172΄"8Remove the unused function parameter "sta_principal_id".(½Χρ
+Npython:S1172΄"5Remove the unused function parameter "audit_remarks".(½Χρ
+Jpython:S1172΄"1Remove the unused function parameter "informant".(½Χρ
+Opython:S1172΄"6Remove the unused function parameter "warning_remark".(½Χρ
+Npython:S1172΄"5Remove the unused function parameter "sta_principal".(½Χρ
+Gpython:S1172΄".Remove the unused function parameter "status".(½Χρ
+Npython:S1172΄"5Remove the unused function parameter "org_principal".(½Χρ
+Mpython:S1172΄"4Remove the unused function parameter "created_time".(½Χρ
+Ipython:S1172΄"0Remove the unused function parameter "org_name".(½Χρ
+Gpython:S1172΄".Remove the unused function parameter "mobile".(½Χρ
+Mpython:S1172΄"4Remove the unused function parameter "informant_id".(½Χρ
+zpython:S117¶"]Rename this local variable "hisTableName" to match the regular expression ^[_a-z][a-z0-9_]*$.(ΝέΠόÿÿÿÿ
+qpython:S117Ί"YRename this local variable "recordId" to match the regular expression ^[_a-z][a-z0-9_]*$.(άρΊΫ
+spython:S117µ"[Rename this local variable "reportCode" to match the regular expression ^[_a-z][a-z0-9_]*$.(¨θΙΉ
+zpython:S1542΄"aRename function "getAllRegionAndCreateRecord" to match the regular expression ^[a-z_][a-z0-9_]*$.(½Χρ
+zpython:S107΄"bFunction "getAllRegionAndCreateRecord" has 25 parameters, which is greater than the 13 authorized.(½Χρ

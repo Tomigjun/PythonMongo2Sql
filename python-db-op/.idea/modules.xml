@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mongo-sql/mongo-sql.iml" filepath="$PROJECT_DIR$/mongo-sql/mongo-sql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/python-db-op.iml" filepath="$PROJECT_DIR$/python-db-op.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-op/redis-op.iml" filepath="$PROJECT_DIR$/redis-op/redis-op.iml" />
+    </modules>
+  </component>
+</project>
